@@ -1,0 +1,10 @@
+# Trigger word to module map for HealthRevolution2025 team rituals
+pulse:
+  module: modules/data_ingest/normalizer.py
+  cue: "Feel the baseline, then modulate."
+breathe:
+  module: modules/diagnostics/risk.py
+  cue: "Expand, assess, respond."
+sync:
+  module: modules/rituals/check_in.md
+  cue: "Cohere before sprinting."
